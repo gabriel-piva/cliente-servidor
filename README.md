@@ -4,6 +4,8 @@ Trabalho prático da disciplina de Redes de Computadores, pela Universidade Fede
 
 A ideia do projeto consiste no desenvolvimento de duas aplicações usando sockets (UDP e TCP). Cada aplicação será composta por dois módulos: cliente e servidor. 
 
+O módulo do cliente envia comandos por um terminal para o módulo do servidor, que recebe, executa e responde o comando para o cliente.
+
 Cada uma das aplicações implementa os seguintes comandos:
 
 - **ls**: servidor retorna a lista de arquivos existentes no seu diretório atual.
