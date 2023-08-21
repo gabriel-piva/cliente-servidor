@@ -67,5 +67,7 @@ Obs: Uma das aplicações funciona com base em UDP e a outra em TCP, mas ambas t
 <a href="https://github.com/gabriel-francelino" target="_blank"><img src="https://img.shields.io/static/v1?label=Github&message=Gabriel Francelino&color=f8efd4&style=for-the-badge&logo=GitHub"></a>
 <a href="https://github.com/gabriel-piva" target="_blank"><img src="https://img.shields.io/static/v1?label=Github&message=Gabriel Piva&color=f8efd4&style=for-the-badge&logo=GitHub"></a>
 
+Original: https://github.com/gabriel-francelino/ConnectionClientServer
+
 ### Referências
 O código base que foi utilizado e modificado para chegar nas duas aplicações finais veio do livro _Redes de Computadores – Uma abordagem Top Down - Kurose e Ross (6a edição)_.
